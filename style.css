@@ -138,3 +138,40 @@ hero {
     font-size:x-large;
     padding-bottom: 100px;
 }
+
+.CTA {
+    margin: 75px;
+}
+
+.box {
+    background-color: #3882f6;
+    color:#f9faf8;
+    display: flex;
+    padding: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+    justify-content: space-between;
+    border-radius: 8px;
+}
+
+.box .button {
+    border-color: white;
+    border: 3px;
+    border-style: solid;
+    margin-right: 50px;
+    min-width:fit-content;
+    align-self: center;
+}
+
+.box-text {
+    margin-left: 50px;
+}
+
+.cta-text {
+    font-weight: bolder;
+    font-size: x-large;
+}
+
+.cta-sub-text {
+
+}
